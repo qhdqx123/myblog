@@ -15,8 +15,8 @@ module.exports = {
             {
                 text: 'Languages',
                 items: [
-                    { text: 'Chinese', link: '/language/chinese' },
-                    { text: 'English', link: '/language/english' }
+                    { text: 'zh', link: '/language/zh' },
+                    { text: 'en', link: '/language/en' }
                 ]
             },
             { text: 'External', link: 'https://www.baidu.com' },
