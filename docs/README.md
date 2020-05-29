@@ -3,7 +3,7 @@ home: true
 heroImage: /favicon.ico
 heroText: 我的笔记
 tagline: 小红红加油
-actionText: 点击查看 →
+actionText: 来了老铁 →
 actionLink: /guide/
 features:
 - title: 简洁至上

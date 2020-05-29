@@ -12,13 +12,6 @@ module.exports = {
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Guide', link: '/guide/' },
-            {
-                text: 'Languages',
-                items: [
-                    { text: 'zh', link: '/language/zh' },
-                    { text: 'en', link: '/language/en' }
-                ]
-            },
             { text: 'External', link: 'https://www.baidu.com' },
         ],
         sidebarDepth: 2,
