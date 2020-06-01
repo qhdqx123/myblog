@@ -4,7 +4,7 @@ heroImage: /favicon.ico
 heroText: 随笔、杂记
 tagline: 小红红加油
 actionText: 点击进入 →
-actionLink: /guide/
+actionLink: /views/
 features:
 - title: 
   details: 弃我去者，昨日之日不可留

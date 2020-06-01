@@ -1,3 +1,4 @@
+const sidebar = require('./config/sidebar/')
 module.exports = {
     title: '小红的博客',
     description: '自己的博客',
@@ -12,15 +13,9 @@ module.exports = {
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Guide', link: '/guide/' },
-            { text: 'External', link: 'https://www.baidu.com' },
+            { text: 'Github', link: 'https://github.com/qhdqx123' },
         ],
         sidebarDepth: 2,
-        sidebar: [
-            {
-                title: 'Guide',
-                collapsable: false,
-                children: ['/guide/']
-            }
-        ]
+        sidebar
     }
 }
