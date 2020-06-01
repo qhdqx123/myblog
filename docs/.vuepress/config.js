@@ -1,7 +1,6 @@
 module.exports = {
     title: '小红的博客',
     description: '自己的博客',
-    base: '/myblog/',
     head: [
         ['link', {
             rel: 'icon',
